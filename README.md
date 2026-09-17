@@ -3,5 +3,5 @@
 
 ## Contact Me
 <li><a href="mailto:business@ms.egreig-vistnes.no">business@ms.egreig-vistnes.no</a></li>
-<li><a href="https://www.linkedin.com/in/egreig-vistnes/">LinkedIn</a></li>
-<li><a href="https://x.com/egreigvistnes">X (Twitter)</a></li>
+<li><a href="https://linkedin.egreig-vistnes.no">LinkedIn</a></li>
+<li><a href="https://x.egreig-vistnes.no">X (Twitter)</a></li>
