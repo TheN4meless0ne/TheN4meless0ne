@@ -2,6 +2,6 @@
 <img style="margin-left:1rem" src="https://raw.githubusercontent.com/TheN4meless0ne/TheN4meless0ne/output/snake.svg" alt="Snake animation" />
 
 ## Contact Me
-<li><a href="mailto:business@ms.egreig-vistnes.no">business@ms.egreig-vistnes.no</a></li>
+<li><a href="mailto:post@egreigvistnes.no">post@egreigvistnes.no</a></li>
 <li><a href="https://linkedin.egreig-vistnes.no">LinkedIn</a></li>
 <li><a href="https://x.egreig-vistnes.no">X (Twitter)</a></li>
